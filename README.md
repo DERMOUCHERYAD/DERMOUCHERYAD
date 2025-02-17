@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ryad3135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ryad3135" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-ryad-dermouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammed-ryad-dermouche" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-ryad-dermouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ryad-dermouche" height="30" width="40" /></a>
 <a href="https://fb.com/ryad der" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryad der" height="30" width="40" /></a>
 <a href="https://instagram.com/rya_dprv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rya_dprv" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/24gucgrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/24gucgrj" height="30" width="40" /></a>
