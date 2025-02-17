@@ -6,11 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dermoucheryad" alt="dermoucheryad" /></a> </p>
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/mohammed-ryad-dermouche" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="mohammed-ryad-dermouche" height="30" width="40" />
+  <a href="https://linkedin.com/in/mohammed-ryad-dermouche" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" 
+         alt="Follow Mohammed Ryad Dermouche on LinkedIn" />
   </a> 
 </p>
+
 
 - 🔭 I’m currently working on **on NIS Cube, a web interface in cybersecurity designed to help companies assess and enhance their compliance with the NIS directive.**
 
