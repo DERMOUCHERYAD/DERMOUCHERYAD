@@ -1,4 +1,7 @@
-![Hacker GIF](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="Hacker GIF" width="500"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm DERMOUCHERYAD</h1>
 <h3 align="center">A passionate about Networks, Systems & Cybersecurity |</h3>
