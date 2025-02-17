@@ -1,4 +1,4 @@
-![Hacker GIF]([https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=790b7611ud16gxot4ngkaoy1evb6ol1stn6nbbppaii1y6t9&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Hacker GIF](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm DERMOUCHERYAD</h1>
 <h3 align="center">A passionate about Networks, Systems & Cybersecurity |</h3>
