@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./assets/hacker-workspace.webp" width="100%" alt="Dark cybersecurity workstation with multiple monitors" />
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-v2.svg" />
