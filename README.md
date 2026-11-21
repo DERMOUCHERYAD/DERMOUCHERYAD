@@ -4,8 +4,8 @@
   <img src="./assets/hacker-workspace.webp" width="100%" alt="Dark cybersecurity workstation with multiple monitors" />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-v2.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-dark-v2.svg" />
     <img src="./assets/banner-dark-v2.svg" width="100%" alt="Ryad Dermouche — cybersecurity profile, animated daily security signal" />
   </picture>
 
