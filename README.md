@@ -10,7 +10,7 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-dark.svg" />
     <img src="./assets/banner-dark.svg" width="100%" alt="Ryad Dermouche — cybersecurity profile, animated daily security signal" />
   </picture>
 
