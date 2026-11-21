@@ -1,0 +1,837 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 500" width="100%" height="100%" role="img" aria-label="Mohammed Ryad Dermouche - Cybersecurity Engineer, Offensive Security, GRC">
+  <title>Mohammed Ryad Dermouche — Cybersecurity Engineer</title>
+  <desc>Animated cyberpunk hero banner with a 24-second looping narrative: a live cybersecurity terminal types commands progressively while a hooded hacker starts fully masked, removes the mask to reveal their face, holds the final state, and loops seamlessly.</desc>
+
+  <defs>
+    
+    <linearGradient id="bg-base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04070C" />
+      <stop offset="50%" stop-color="#05080D" />
+      <stop offset="100%" stop-color="#070B14" />
+    </linearGradient>
+
+    <radialGradient id="glow-emerald" cx="78%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.22" />
+      <stop offset="45%" stop-color="#00FF9C" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-cyan" cx="24%" cy="56%" r="44%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.14" />
+      <stop offset="55%" stop-color="#00D9FF" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-violet" cx="56%" cy="10%" r="36%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.16" />
+      <stop offset="60%" stop-color="#7C3AED" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="grid-fade" cx="55%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="70%" stop-color="#FFFFFF" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="scan-beam-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0" />
+      <stop offset="72%" stop-color="#00FF9C" stop-opacity="0.16" />
+      <stop offset="96%" stop-color="#00FF9C" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1" />
+    </linearGradient>
+
+    
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1320" stop-opacity="0.88" />
+      <stop offset="100%" stop-color="#060B12" stop-opacity="0.93" />
+    </linearGradient>
+
+    <linearGradient id="term-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.55" />
+      <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.45" />
+    </linearGradient>
+
+    <linearGradient id="term-scan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00FF9C" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="65%" stop-color="#E2F8FF" />
+      <stop offset="100%" stop-color="#B8FFE4" />
+    </linearGradient>
+
+    
+    <radialGradient id="hacker-aura" cx="50%" cy="48%" r="50%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.30" />
+      <stop offset="45%" stop-color="#00D9FF" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#05080D" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="hoodie-body" x1="12%" y1="0%" x2="88%" y2="100%">
+      <stop offset="0%" stop-color="#142333" />
+      <stop offset="22%" stop-color="#0C1118" />
+      <stop offset="55%" stop-color="#070A0F" />
+      <stop offset="86%" stop-color="#0B1617" />
+      <stop offset="100%" stop-color="#0F2A22" />
+    </linearGradient>
+
+    <linearGradient id="hoodie-chest" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0E1A26" />
+      <stop offset="48%" stop-color="#080C12" />
+      <stop offset="100%" stop-color="#0B1E1B" />
+    </linearGradient>
+
+    <linearGradient id="hood-outer" x1="8%" y1="15%" x2="92%" y2="65%">
+      <stop offset="0%" stop-color="#1A3244" />
+      <stop offset="20%" stop-color="#0E141D" />
+      <stop offset="52%" stop-color="#070A10" />
+      <stop offset="82%" stop-color="#0D1D1C" />
+      <stop offset="100%" stop-color="#143B30" />
+    </linearGradient>
+
+    <radialGradient id="hood-cavity" cx="50%" cy="46%" r="54%">
+      <stop offset="0%" stop-color="#0A111A" />
+      <stop offset="72%" stop-color="#04060A" />
+      <stop offset="100%" stop-color="#020305" />
+    </radialGradient>
+
+    <linearGradient id="skin-shadow" x1="15%" y1="10%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#1B3040" />
+      <stop offset="32%" stop-color="#101822" />
+      <stop offset="68%" stop-color="#0B1016" />
+      <stop offset="100%" stop-color="#132925" />
+    </linearGradient>
+
+    <linearGradient id="skin-nose" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#357A92" stop-opacity="0.65" />
+      <stop offset="40%" stop-color="#131C26" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#070B10" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="rim-cyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.95" />
+      <stop offset="60%" stop-color="#00D9FF" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="rim-emerald" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.95" />
+      <stop offset="65%" stop-color="#00FF9C" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00FF9C" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <linearGradient id="mask-shell" x1="0%" y1="10%" x2="100%" y2="90%">
+      <stop offset="0%" stop-color="#223D52" />
+      <stop offset="28%" stop-color="#101822" />
+      <stop offset="56%" stop-color="#090E14" />
+      <stop offset="84%" stop-color="#122B28" />
+      <stop offset="100%" stop-color="#1F5947" />
+    </linearGradient>
+
+    <linearGradient id="mask-facet-left" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.34" />
+      <stop offset="55%" stop-color="#162635" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#070B11" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="mask-facet-right" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.38" />
+      <stop offset="55%" stop-color="#112824" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#070B11" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="mask-sheen" x1="0%" y1="0%" x2="100%" y2="35%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="42%" stop-color="#00D9FF" stop-opacity="0.18" />
+      <stop offset="50%" stop-color="#E6FFF6" stop-opacity="0.72" />
+      <stop offset="58%" stop-color="#00FF9C" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="glove-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D2B3A" />
+      <stop offset="50%" stop-color="#0B1017" />
+      <stop offset="100%" stop-color="#122624" />
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="65%" stop-color="#05080D" stop-opacity="0" />
+      <stop offset="100%" stop-color="#020407" stop-opacity="0.82" />
+    </radialGradient>
+
+    
+    <filter id="neon-soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="neon-strong" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur1" />
+      <feGaussianBlur stdDeviation="2" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="panel-shadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.65" />
+    </filter>
+
+    
+    <pattern id="tech-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#00D9FF" stroke-opacity="0.09" stroke-width="0.75" />
+      <circle cx="0" cy="0" r="1.2" fill="#00FF9C" fill-opacity="0.22" />
+    </pattern>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#000000" stroke-opacity="0.22" stroke-width="1" />
+    </pattern>
+
+    <mask id="grid-mask">
+      <rect width="1400" height="500" fill="url(#grid-fade)" />
+    </mask>
+
+    
+    <clipPath id="mask-clip">
+      <path d="M 995 170 L 1034 184 L 1052 216 L 1046 266 L 1024 306 L 995 326 L 966 306 L 944 266 L 938 216 L 956 184 Z" />
+    </clipPath>
+
+    
+    <clipPath id="term-clip">
+      <rect x="56" y="146" width="692" height="308" rx="12" />
+    </clipPath>
+
+    
+    <clipPath id="tw-cmd1"><rect x="76" y="190" width="320" height="22" class="tw-rect tw-1" /></clipPath>
+    <clipPath id="tw-cmd2"><rect x="76" y="242" width="440" height="22" class="tw-rect tw-2" /></clipPath>
+    <clipPath id="tw-cmd3"><rect x="76" y="314" width="380" height="22" class="tw-rect tw-3" /></clipPath>
+    <clipPath id="tw-cmd4"><rect x="76" y="388" width="380" height="22" class="tw-rect tw-4" /></clipPath>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    }
+    .sans {
+      font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    /* ==================== MASTER 24s STORYTELLING LOOP ==================== */
+
+    /* Periodic subtle scan beam at the start of each cycle */
+    .scan-beam {
+      animation: scanSweepLoop 24s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    @keyframes scanSweepLoop {
+      0%      { transform: translateX(-180px); opacity: 0; }
+      1%      { opacity: 0.9; }
+      7%      { transform: translateX(1580px); opacity: 0.85; }
+      8%, 100%{ transform: translateX(1580px); opacity: 0; }
+    }
+
+    /* ==================== TERMINAL PROGRESSIVE TYPEWRITER ==================== */
+    .tw-rect {
+      transform-box: fill-box;
+      transform-origin: left center;
+    }
+
+    /* CMD 1: whoami (types 6% -&gt; 11%, holds until 92%, resets cleanly) */
+    .tw-1 {
+      animation: typeCmd1 24s linear infinite;
+    }
+    @keyframes typeCmd1 {
+      0%, 5.5%   { transform: scaleX(0); }
+      11.5%, 92% { transform: scaleX(1); }
+      95%, 100%  { transform: scaleX(0); }
+    }
+
+    /* CMD 2: cat specialization.txt (types 16% -&gt; 23%) */
+    .tw-2 {
+      animation: typeCmd2 24s linear infinite;
+    }
+    @keyframes typeCmd2 {
+      0%, 15.5%  { transform: scaleX(0); }
+      23.5%, 92% { transform: scaleX(1); }
+      95%, 100%  { transform: scaleX(0); }
+    }
+
+    /* CMD 3: ./initialize.sh (types 29.5% -&gt; 35.5%) */
+    .tw-3 {
+      animation: typeCmd3 24s linear infinite;
+    }
+    @keyframes typeCmd3 {
+      0%, 29%    { transform: scaleX(0); }
+      35.5%, 92% { transform: scaleX(1); }
+      95%, 100%  { transform: scaleX(0); }
+    }
+
+    /* CMD 4: echo $MISSION (types 47% -&gt; 53.5%) */
+    .tw-4 {
+      animation: typeCmd4 24s linear infinite;
+    }
+    @keyframes typeCmd4 {
+      0%, 46.5%  { transform: scaleX(0); }
+      53.5%, 92% { transform: scaleX(1); }
+      95%, 100%  { transform: scaleX(0); }
+    }
+
+    /* Fade all terminal lines cleanly together at end of loop */
+    .term-content-cycle {
+      animation: termCycleFade 24s ease-in-out infinite;
+    }
+    @keyframes termCycleFade {
+      0%, 91%   { opacity: 1; }
+      95%, 99%  { opacity: 0; }
+      100%      { opacity: 1; }
+    }
+
+    /* Output Lines Sequential Execution */
+    .out-1  { animation: showAt13 24s linear infinite; }
+    .out-2a { animation: showAt25 24s linear infinite; }
+    .out-2b { animation: showAt27 24s linear infinite; }
+    .out-3a { animation: showAt37 24s linear infinite; }
+    .out-3b { animation: showAt40 24s linear infinite; }
+    .out-3c { animation: showAt43 24s linear infinite; }
+    .out-4  { animation: showAt56 24s linear infinite; }
+    .out-p  { animation: showAt59 24s linear infinite; }
+
+    @keyframes showAt13 { 0%, 12.8% { opacity: 0; } 13.4%, 100% { opacity: 1; } }
+    @keyframes showAt25 { 0%, 24.8% { opacity: 0; } 25.4%, 100% { opacity: 1; } }
+    @keyframes showAt27 { 0%, 26.8% { opacity: 0; } 27.4%, 100% { opacity: 1; } }
+    @keyframes showAt37 { 0%, 36.8% { opacity: 0; } 37.4%, 100% { opacity: 1; } }
+    @keyframes showAt40 { 0%, 39.8% { opacity: 0; } 40.4%, 100% { opacity: 1; } }
+    @keyframes showAt43 { 0%, 42.8% { opacity: 0; } 43.4%, 100% { opacity: 1; } }
+    @keyframes showAt56 { 0%, 55.5% { opacity: 0; } 56.5%, 100% { opacity: 1; } }
+    @keyframes showAt59 { 0%, 58.5% { opacity: 0; } 59.2%, 100% { opacity: 1; } }
+
+    /* Idle Boot Cursor (visible when terminal is empty at 0% -&gt; 5.5%) */
+    .idle-cursor-group {
+      animation: idleCursorVis 24s linear infinite;
+    }
+    @keyframes idleCursorVis {
+      0%, 5.4%   { opacity: 1; }
+      5.5%, 95%  { opacity: 0; }
+      96%, 100%  { opacity: 1; }
+    }
+
+    .cursor-blink {
+      animation: cursorPulse 0.95s steps(1, end) infinite;
+    }
+    @keyframes cursorPulse {
+      0%, 49%   { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .term-scan-bar {
+      animation: termScan 6.5s linear infinite;
+    }
+    @keyframes termScan {
+      0%   { transform: translateY(146px); }
+      100% { transform: translateY(454px); }
+    }
+
+    .led-pulse {
+      animation: ledGlow 2.4s ease-in-out infinite;
+    }
+    @keyframes ledGlow {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.35; }
+    }
+
+    .bar-1 { transform-origin: 604px 440px; animation: eqBar 2.1s ease-in-out infinite alternate; }
+    .bar-2 { transform-origin: 612px 440px; animation: eqBar 1.6s ease-in-out 0.3s infinite alternate; }
+    .bar-3 { transform-origin: 620px 440px; animation: eqBar 2.4s ease-in-out 0.6s infinite alternate; }
+    .bar-4 { transform-origin: 628px 440px; animation: eqBar 1.8s ease-in-out 0.2s infinite alternate; }
+    @keyframes eqBar {
+      0%   { transform: scaleY(0.35); }
+      100% { transform: scaleY(1); }
+    }
+
+    /* ==================== HACKER MASK-OFF CHOREOGRAPHY (24s LOOP) ==================== */
+    .hacker-breathe {
+      transform-origin: 1125px 460px;
+      animation: breatheLoop 6s ease-in-out infinite;
+    }
+    @keyframes breatheLoop {
+      0%, 100% { transform: translateY(0px) scaleY(1); }
+      50%      { transform: translateY(-3px) scaleY(1.007); }
+    }
+
+    .head-micro {
+      transform-origin: 1125px 265px;
+      animation: headDrift 12s ease-in-out infinite;
+    }
+    @keyframes headDrift {
+      0%, 100% { transform: rotate(0deg) translateY(0px); }
+      40%      { transform: rotate(0.7deg) translateY(-1px); }
+      75%      { transform: rotate(-0.5deg) translateY(0.6px); }
+    }
+
+    /*
+      MASK MOTION:
+      - 0% to 44%: Fully worn over the face -&gt; translate(130px, -42px) rotate(8deg)
+      - 44% to 58%: Pulled smoothly away from the face -&gt; translate(0px, 0px) rotate(0deg)
+      - 58% to 86%: Held in hand with subtle cinematic poise
+      - 86% to 94%: Raised smoothly back onto the face for a seamless loop
+    */
+    .mask-story {
+      transform-origin: 995px 248px;
+      animation: maskRemoveLoop 24s cubic-bezier(0.42, 0, 0.22, 1) infinite;
+    }
+    @keyframes maskRemoveLoop {
+      0%, 44%   { transform: translate(130px, -42px) rotate(8deg) scale(1.03); }
+      58%       { transform: translate(0px, 0px) rotate(0deg) scale(1); }
+      72%       { transform: translate(-2px, -4px) rotate(-1.5deg) scale(1); }
+      86%       { transform: translate(0px, 0px) rotate(0deg) scale(1); }
+      94%, 100% { transform: translate(130px, -42px) rotate(8deg) scale(1.03); }
+    }
+
+    /*
+      GLOVED HAND &amp; FOREARM MOTION:
+      - 0% to 32%: Lowered out of frame while hacker is masked
+      - 32% to 44%: Hand rises smoothly up to grip the mask on the face
+      - 44% to 58%: Moves in exact lockstep with the mask down-left to the reveal pose
+      - 58% to 86%: Holds the mask steady
+      - 86% to 94%: Places mask back on face
+      - 94% to 100%: Lowers hand smoothly back out of frame
+    */
+    .hand-story {
+      transform-origin: 995px 248px;
+      animation: handGripLoop 24s cubic-bezier(0.42, 0, 0.22, 1) infinite;
+    }
+    @keyframes handGripLoop {
+      0%, 32%   { transform: translate(-20px, 195px) rotate(-8deg); opacity: 0; }
+      35%       { opacity: 1; }
+      44%       { transform: translate(130px, -42px) rotate(8deg); opacity: 1; }
+      58%       { transform: translate(0px, 0px) rotate(0deg); opacity: 1; }
+      72%       { transform: translate(-2px, -4px) rotate(-1.5deg); opacity: 1; }
+      86%       { transform: translate(0px, 0px) rotate(0deg); opacity: 1; }
+      94%       { transform: translate(130px, -42px) rotate(8deg); opacity: 1; }
+      98%       { opacity: 0; }
+      100%      { transform: translate(-20px, 195px) rotate(-8deg); opacity: 0; }
+    }
+
+    .mask-sheen-bar {
+      animation: sheenSweep 6s ease-in-out infinite;
+    }
+    @keyframes sheenSweep {
+      0%, 20%  { transform: translateX(-160px) skewX(-22deg); opacity: 0; }
+      38%      { opacity: 0.92; }
+      60%      { transform: translateX(170px) skewX(-22deg); opacity: 0; }
+      100%     { transform: translateX(170px) skewX(-22deg); opacity: 0; }
+    }
+
+    .eye-glint {
+      animation: eyePulse 4.8s ease-in-out infinite;
+    }
+    @keyframes eyePulse {
+      0%, 100% { opacity: 0.95; }
+      50%      { opacity: 0.55; }
+    }
+
+    /* ==================== HOLOGRAPHIC HUD ==================== */
+    .hud-ring-cw {
+      transform-origin: 1110px 235px;
+      animation: spinCW 34s linear infinite;
+    }
+    .hud-ring-ccw {
+      transform-origin: 1110px 235px;
+      animation: spinCCW 46s linear infinite;
+    }
+    @keyframes spinCW  { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes spinCCW { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+
+    /* Subtle HUD brightness boost when face is revealed */
+    .hud-reactive {
+      animation: hudBoost 24s ease-in-out infinite;
+    }
+    @keyframes hudBoost {
+      0%, 44%   { opacity: 0.45; }
+      56%, 86%  { opacity: 1; }
+      94%, 100% { opacity: 0.45; }
+    }
+
+    /* ==================== TITLE SUBTLE GLITCH PULSE ==================== */
+    .glitch-cyan {
+      opacity: 0;
+      animation: glitchEchoC 12s ease-in-out infinite;
+    }
+    .glitch-emerald {
+      opacity: 0;
+      animation: glitchEchoE 12s ease-in-out infinite;
+    }
+    @keyframes glitchEchoC {
+      0%, 44%   { opacity: 0; transform: translate(0, 0); }
+      45.5%     { opacity: 0.65; transform: translate(-3.5px, -1px); }
+      47%       { opacity: 0; transform: translate(2px, 0); }
+      48.5%     { opacity: 0.4; transform: translate(-2px, 1px); }
+      50%, 100% { opacity: 0; transform: translate(0, 0); }
+    }
+    @keyframes glitchEchoE {
+      0%, 44.5% { opacity: 0; transform: translate(0, 0); }
+      46%       { opacity: 0.6; transform: translate(3.5px, 1px); }
+      47.5%     { opacity: 0; transform: translate(-2px, 0); }
+      49%       { opacity: 0.38; transform: translate(2px, -1px); }
+      50.5%,100%{ opacity: 0; transform: translate(0, 0); }
+    }
+
+    /* ==================== FLOATING AMBIENT PARTICLES ==================== */
+    .p-float-1 { animation: floatUp 11s linear infinite; }
+    .p-float-2 { animation: floatUp 14s linear 2.5s infinite; }
+    .p-float-3 { animation: floatUp 9.5s linear 4.2s infinite; }
+    .p-float-4 { animation: floatUp 13s linear 1.1s infinite; }
+    .p-float-5 { animation: floatUp 10.5s linear 6.0s infinite; }
+    @keyframes floatUp {
+      0%   { transform: translateY(24px); opacity: 0; }
+      18%  { opacity: 0.7; }
+      82%  { opacity: 0.55; }
+      100% { transform: translateY(-96px); opacity: 0; }
+    }
+
+    /* ==================== REDUCED MOTION SUPPORT ==================== */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation: none !important;
+        transition: none !important;
+      }
+      .scan-beam, .glitch-cyan, .glitch-emerald, .idle-cursor-group {
+        opacity: 0 !important;
+      }
+      .tw-rect {
+        transform: scaleX(1) !important;
+      }
+      .out-1, .out-2a, .out-2b, .out-3a, .out-3b, .out-3c, .out-4, .out-p,
+      .term-content-cycle, .hud-reactive, .cursor-blink {
+        opacity: 1 !important;
+      }
+      .mask-story, .hand-story {
+        transform: none !important;
+        opacity: 1 !important;
+      }
+    }
+  </style>
+
+  
+  <rect width="1400" height="500" fill="url(#bg-base)" />
+  <rect width="1400" height="500" fill="url(#glow-cyan)" />
+  <rect width="1400" height="500" fill="url(#glow-emerald)" />
+  <rect width="1400" height="500" fill="url(#glow-violet)" />
+
+  
+  <rect width="1400" height="500" fill="url(#tech-grid)" mask="url(#grid-mask)" />
+
+  
+  <g opacity="0.14">
+    <polygon points="940,0 1120,0 1320,500 1050,500" fill="url(#rim-emerald)" />
+    <polygon points="790,0 880,0 1030,500 900,500" fill="url(#rim-cyan)" />
+  </g>
+
+  
+  <g fill="#00FF9C">
+    <circle cx="845" cy="410" r="1.6" class="p-float-1" />
+    <circle cx="920" cy="360" r="1.2" fill="#00D9FF" class="p-float-2" />
+    <circle cx="1275" cy="390" r="1.8" class="p-float-3" />
+    <circle cx="1320" cy="285" r="1.3" fill="#00D9FF" class="p-float-4" />
+    <circle cx="775" cy="215" r="1.4" fill="#8B5CF6" class="p-float-5" />
+    <circle cx="1010" cy="140" r="1.5" class="p-float-2" />
+    <circle cx="1210" cy="165" r="1.2" fill="#00D9FF" class="p-float-1" />
+    <circle cx="695" cy="120" r="1.3" class="p-float-4" />
+  </g>
+
+  
+  <g class="hud-reactive">
+    <g class="hud-ring-cw" opacity="0.45">
+      <circle cx="1110" cy="235" r="206" fill="none" stroke="#00FF9C" stroke-width="1" stroke-dasharray="62 18 8 18 110 24" />
+      <circle cx="1110" cy="235" r="196" fill="none" stroke="#00D9FF" stroke-width="0.7" stroke-dasharray="2 10" />
+    </g>
+
+    <g class="hud-ring-ccw" opacity="0.52">
+      <circle cx="1110" cy="235" r="168" fill="none" stroke="#00D9FF" stroke-width="1.1" stroke-dasharray="40 28 12 28 75 45" />
+      <path d="M 1110 56 L 1110 72 M 1110 398 L 1110 414 M 931 235 L 947 235 M 1273 235 L 1289 235" stroke="#00FF9C" stroke-width="1.3" />
+    </g>
+
+    <g class="mono" font-size="9.5" letter-spacing="1.4">
+      <polyline points="1226,126 1258,94 1344,94" fill="none" stroke="#00FF9C" stroke-opacity="0.65" stroke-width="1" />
+      <circle cx="1226" cy="126" r="2.6" fill="#00FF9C" filter="url(#neon-soft)" />
+      <text x="1262" y="88" fill="#00FF9C" opacity="0.9">SEC_OPS // ACTIVE</text>
+      <text x="1262" y="106" fill="#7DD3FC" opacity="0.65">ENC: AES-256-GCM</text>
+
+      <polyline points="928,176 896,144 804,144" fill="none" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1" />
+      <circle cx="928" cy="176" r="2.4" fill="#00D9FF" filter="url(#neon-soft)" />
+      <text x="804" y="138" fill="#00D9FF" opacity="0.88">ID_MASK :: PROTOCOL</text>
+      <text x="804" y="156" fill="#94A3B8" opacity="0.65">NODE 0x7F4A</text>
+
+      <polyline points="1282,340 1308,366 1362,366" fill="none" stroke="#00FF9C" stroke-opacity="0.45" stroke-width="1" />
+      <circle cx="1282" cy="340" r="2.2" fill="#00FF9C" />
+      <text x="1260" y="382" fill="#00FF9C" opacity="0.72">GRC // CLOUD</text>
+    </g>
+  </g>
+
+  
+  <g id="hacker-character">
+    <ellipse cx="1118" cy="265" rx="235" ry="215" fill="url(#hacker-aura)" />
+
+    <g class="hacker-breathe">
+      
+      <g id="hacker-torso">
+        <path d="M 902 502 L 938 358 C 952 318 996 292 1054 276 L 1125 268 L 1196 276 C 1254 292 1298 318 1314 358 L 1348 502 Z" fill="url(#hoodie-body)" />
+        <path d="M 1034 292 L 1125 326 L 1216 292 L 1244 502 L 1006 502 Z" fill="url(#hoodie-chest)" />
+        <path d="M 1034 292 L 1068 386 L 1125 408 L 1182 386 L 1216 292" fill="none" stroke="#1E3446" stroke-width="1.3" opacity="0.8" />
+
+        <line x1="1125" y1="322" x2="1125" y2="502" stroke="#04070C" stroke-width="6" />
+        <line x1="1125" y1="322" x2="1125" y2="502" stroke="#1E3A4C" stroke-width="1" stroke-dasharray="3 4" opacity="0.65" />
+
+        <path d="M 1068 312 L 1076 382" stroke="#172A38" stroke-width="3.2" stroke-linecap="round" />
+        <path d="M 1182 312 L 1174 382" stroke="#122B27" stroke-width="3.2" stroke-linecap="round" />
+        <rect x="1072" y="376" width="7" height="14" rx="2" fill="#00D9FF" opacity="0.55" />
+        <rect x="1171" y="376" width="7" height="14" rx="2" fill="#00FF9C" opacity="0.65" />
+
+        <path d="M 962 344 C 988 372 1008 424 1018 498" fill="none" stroke="#04060A" stroke-width="7" opacity="0.72" />
+        <path d="M 1288 346 C 1262 374 1244 426 1232 498" fill="none" stroke="#04060A" stroke-width="7" opacity="0.72" />
+        <path d="M 988 320 L 1044 352" stroke="#00D9FF" stroke-opacity="0.24" stroke-width="1.2" />
+        <path d="M 1262 320 L 1206 352" stroke="#00FF9C" stroke-opacity="0.28" stroke-width="1.2" />
+
+        <path d="M 906 500 L 940 359 C 954 320 996 294 1050 278" fill="none" stroke="url(#rim-cyan)" stroke-width="2.4" filter="url(#neon-soft)" />
+        <path d="M 1344 500 L 1312 359 C 1296 320 1254 294 1200 278" fill="none" stroke="url(#rim-emerald)" stroke-width="2.8" filter="url(#neon-soft)" />
+      </g>
+
+      
+      <g class="head-micro">
+        <path d="M 1014 294 C 1002 228 1014 148 1054 108 C 1082 80 1168 80 1196 108 C 1236 148 1248 228 1236 294 C 1204 320 1162 332 1125 332 C 1088 332 1046 320 1014 294 Z" fill="url(#hood-outer)" />
+        <path d="M 1044 122 C 1026 178 1022 238 1034 292" fill="none" stroke="#05080D" stroke-width="5" opacity="0.65" />
+        <path d="M 1206 122 C 1224 178 1228 238 1216 292" fill="none" stroke="#05080D" stroke-width="5" opacity="0.65" />
+
+        <path d="M 1044 282 C 1032 222 1042 154 1072 126 C 1094 106 1156 106 1178 126 C 1208 154 1218 222 1206 282 C 1178 308 1150 318 1125 318 C 1100 318 1072 308 1044 282 Z" fill="url(#hood-cavity)" />
+        <path d="M 1092 254 L 1158 254 L 1166 314 L 1084 314 Z" fill="#070B11" />
+
+        
+        <g id="hacker-face">
+          <path d="M 1068 176 C 1068 142 1092 128 1125 128 C 1158 128 1182 142 1182 176 L 1178 218 C 1174 242 1152 268 1125 276 C 1098 268 1076 242 1072 218 Z" fill="url(#skin-shadow)" />
+
+          <path d="M 1073 206 C 1078 224 1090 242 1104 252 C 1092 238 1085 222 1082 208 Z" fill="#00D9FF" opacity="0.22" />
+          <path d="M 1071 196 L 1082 232 L 1108 264" fill="none" stroke="#00D9FF" stroke-opacity="0.38" stroke-width="1.4" />
+
+          <path d="M 1177 204 C 1173 224 1161 244 1146 254 C 1158 240 1166 222 1169 206 Z" fill="#00FF9C" opacity="0.24" />
+          <path d="M 1179 196 L 1168 234 L 1142 264" fill="none" stroke="#00FF9C" stroke-opacity="0.44" stroke-width="1.5" />
+
+          <path d="M 1062 152 C 1086 130 1164 130 1188 152 L 1186 188 C 1162 178 1088 178 1064 188 Z" fill="#030508" opacity="0.92" />
+
+          <path d="M 1121 186 L 1117 224 L 1125 229 L 1133 224 L 1129 186 Z" fill="url(#skin-nose)" />
+          <line x1="1121" y1="189" x2="1118" y2="222" stroke="#00D9FF" stroke-opacity="0.48" stroke-width="1.1" />
+          <path d="M 1117 227 Q 1125 232 1133 227" fill="none" stroke="#04070B" stroke-width="2" />
+
+          
+          <path d="M 1085 196 Q 1098 189 1111 196 Q 1098 201 1085 196 Z" fill="#060B12" />
+          <path d="M 1086 196 Q 1098 191 1110 196" fill="none" stroke="#1E3B4D" stroke-width="1.2" />
+          <circle cx="1099" cy="195.5" r="2.6" fill="#0E2836" />
+          <circle cx="1098.2" cy="194.8" r="1.15" fill="#00D9FF" class="eye-glint" filter="url(#neon-soft)" />
+
+          <path d="M 1139 196 Q 1152 189 1165 196 Q 1152 201 1139 196 Z" fill="#060B12" />
+          <path d="M 1140 196 Q 1152 191 1164 196" fill="none" stroke="#163D35" stroke-width="1.2" />
+          <circle cx="1151" cy="195.5" r="2.6" fill="#0E2F2A" />
+          <circle cx="1150.2" cy="194.8" r="1.15" fill="#00FF9C" class="eye-glint" filter="url(#neon-soft)" />
+
+          <path d="M 1109 246 Q 1125 249 1141 246" fill="none" stroke="#05080D" stroke-width="2.2" stroke-linecap="round" />
+          <path d="M 1116 252 Q 1125 255 1134 252" fill="none" stroke="#00D9FF" stroke-opacity="0.22" stroke-width="1" />
+          <path d="M 1114 268 Q 1125 273 1136 268" fill="none" stroke="#00FF9C" stroke-opacity="0.26" stroke-width="1.2" />
+        </g>
+
+        <path d="M 1016 292 C 1004 228 1016 148 1055 109 C 1072 92 1098 86 1122 86" fill="none" stroke="url(#rim-cyan)" stroke-width="2.2" filter="url(#neon-soft)" />
+        <path d="M 1234 292 C 1246 228 1234 148 1195 109 C 1178 92 1152 86 1128 86" fill="none" stroke="url(#rim-emerald)" stroke-width="2.6" filter="url(#neon-soft)" />
+      </g>
+
+      
+      <g class="hand-story">
+        <path d="M 914 540 L 952 362 L 1008 370 L 982 540 Z" fill="url(#hoodie-body)" />
+        <path d="M 918 536 L 953 364" fill="none" stroke="url(#rim-cyan)" stroke-width="1.8" opacity="0.7" />
+        <path d="M 952 366 C 950 336 966 314 988 308 L 1014 316 C 1022 338 1016 364 1004 378 Z" fill="url(#glove-grad)" />
+      </g>
+
+      
+      <g class="mask-story">
+        <g id="stealth-mask" transform="rotate(-8 995 248)">
+          <path d="M 1000 176 L 1039 190 L 1057 222 L 1051 272 L 1029 312 L 1000 332 L 971 312 L 949 272 L 943 222 L 961 190 Z" fill="#000000" opacity="0.58" />
+          <path d="M 995 170 L 1034 184 L 1052 216 L 1046 266 L 1024 306 L 995 326 L 966 306 L 944 266 L 938 216 L 956 184 Z" fill="url(#mask-shell)" />
+          <path d="M 995 170 L 956 184 L 938 216 L 944 266 L 966 306 L 995 326 L 995 248 Z" fill="url(#mask-facet-left)" />
+          <path d="M 995 170 L 1034 184 L 1052 216 L 1046 266 L 1024 306 L 995 326 L 995 248 Z" fill="url(#mask-facet-right)" />
+
+          <path d="M 954 198 L 995 212 L 1036 198 L 1046 218 L 995 230 L 944 218 Z" fill="#080D14" opacity="0.88" />
+          <path d="M 995 172 L 995 324" stroke="#00FF9C" stroke-opacity="0.22" stroke-width="1" />
+          <path d="M 995 212 L 989 266 L 995 274 L 1001 266 Z" fill="#132634" opacity="0.85" />
+
+          <polygon points="956,226 986,232 982,238 958,234" fill="#00D9FF" filter="url(#neon-soft)" opacity="0.92" />
+          <polygon points="1034,226 1004,232 1008,238 1032,234" fill="#00FF9C" filter="url(#neon-soft)" opacity="0.94" />
+
+          <polyline points="948,254 964,262 964,282 978,294" fill="none" stroke="#00D9FF" stroke-opacity="0.48" stroke-width="0.9" />
+          <polyline points="1042,254 1026,262 1026,282 1012,294" fill="none" stroke="#00FF9C" stroke-opacity="0.52" stroke-width="0.9" />
+
+          <line x1="984" y1="296" x2="1006" y2="296" stroke="#00FF9C" stroke-opacity="0.45" stroke-width="1.2" />
+          <line x1="988" y1="303" x2="1002" y2="303" stroke="#00D9FF" stroke-opacity="0.4" stroke-width="1.1" />
+
+          <g clip-path="url(#mask-clip)">
+            <rect x="920" y="155" width="90" height="190" fill="url(#mask-sheen)" class="mask-sheen-bar" />
+          </g>
+
+          <path d="M 995 170 L 1034 184 L 1052 216 L 1046 266 L 1024 306 L 995 326 L 966 306 L 944 266 L 938 216 L 956 184 Z" fill="none" stroke="url(#term-border)" stroke-width="1.5" />
+        </g>
+      </g>
+
+      
+      <g class="hand-story">
+        <g fill="url(#glove-grad)" stroke="#1F3A4D" stroke-width="0.9">
+          <rect x="960" y="308" width="26" height="11" rx="5" transform="rotate(-12 973 313)" />
+          <rect x="964" y="321" width="28" height="11" rx="5" transform="rotate(-8 978 326)" />
+          <rect x="968" y="334" width="26" height="10" rx="5" transform="rotate(-4 981 339)" />
+          <rect x="1002" y="302" width="14" height="28" rx="6" transform="rotate(18 1009 316)" />
+        </g>
+        <path d="M 963 311 L 982 308" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1.1" stroke-linecap="round" />
+        <path d="M 1011 305 L 1006 322" stroke="#00FF9C" stroke-opacity="0.55" stroke-width="1.1" stroke-linecap="round" />
+      </g>
+    </g>
+  </g>
+
+  
+  <g id="hero-title">
+    <circle cx="62" cy="49" r="3.2" fill="#00FF9C" class="led-pulse" filter="url(#neon-soft)" />
+    <text x="74" y="53" class="mono" font-size="11" fill="#00FF9C" letter-spacing="2.2" opacity="0.9">SECURE_SESSION // CYBERLAB_NODE_01</text>
+
+    <text x="56" y="92" class="sans glitch-cyan" font-size="35" font-weight="800" letter-spacing="2.4" fill="#00D9FF">MOHAMMED RYAD DERMOUCHE</text>
+    <text x="56" y="92" class="sans glitch-emerald" font-size="35" font-weight="800" letter-spacing="2.4" fill="#00FF9C">MOHAMMED RYAD DERMOUCHE</text>
+    <text x="56" y="92" class="sans" font-size="35" font-weight="800" letter-spacing="2.4" fill="url(#title-grad)">MOHAMMED RYAD DERMOUCHE</text>
+
+    <text x="58" y="120" class="mono" font-size="13.5" font-weight="600" letter-spacing="2.1" fill="#00D9FF">CYBERSECURITY ENGINEER <tspan fill="#00FF9C">·</tspan> OFFENSIVE SECURITY <tspan fill="#00FF9C">·</tspan> GRC</text>
+  </g>
+
+  
+  <g filter="url(#panel-shadow)">
+    <rect x="56" y="146" width="692" height="308" rx="12" fill="url(#term-bg)" stroke="url(#term-border)" stroke-width="1.25" />
+    <line x1="72" y1="147.2" x2="732" y2="147.2" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1" />
+
+    
+    <path d="M 57 158 C 57 151.5 62.5 147 68 147 L 736 147 C 741.5 147 747 151.5 747 158 L 747 178 L 57 178 Z" fill="#0F1928" fill-opacity="0.72" />
+    <line x1="56" y1="178" x2="748" y2="178" stroke="#00D9FF" stroke-opacity="0.18" stroke-width="1" />
+
+    <circle cx="76" cy="162.5" r="4.5" fill="#FF5F56" opacity="0.85" />
+    <circle cx="92" cy="162.5" r="4.5" fill="#FFBD2E" opacity="0.85" />
+    <circle cx="108" cy="162.5" r="4.5" fill="#00FF9C" opacity="0.9" />
+
+    <text x="128" y="166.5" class="mono" font-size="11.5" fill="#94A3B8" letter-spacing="0.6">ryad@cyberlab: ~/operations — zsh</text>
+    <text x="612" y="166" class="mono" font-size="10" fill="#64748B" letter-spacing="0.8">SSH-2.0 · TLS 1.3</text>
+    <circle cx="732" cy="162.5" r="3" fill="#00FF9C" class="led-pulse" filter="url(#neon-soft)" />
+
+    
+    <g clip-path="url(#term-clip)" class="mono" font-size="13.5">
+      <rect x="56" y="0" width="692" height="44" fill="url(#term-scan)" class="term-scan-bar" />
+
+      
+      <g class="idle-cursor-group">
+        <text x="76" y="206">
+          <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$</tspan>
+        </text>
+        <rect x="210" y="194" width="8.5" height="14" rx="1" fill="#00FF9C" class="cursor-blink" filter="url(#neon-soft)" />
+      </g>
+
+      
+      <g class="term-content-cycle">
+        
+        <g clip-path="url(#tw-cmd1)">
+          <text x="76" y="206">
+            <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#F1F5F9">whoami</tspan>
+          </text>
+        </g>
+        <text x="76" y="226" class="out-1" fill="#E2E8F0">
+          <tspan fill="#00D9FF">&gt; </tspan>Mohammed Ryad Dermouche
+        </text>
+
+        
+        <g clip-path="url(#tw-cmd2)">
+          <text x="76" y="258">
+            <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#F1F5F9">cat specialization.txt</tspan>
+          </text>
+        </g>
+        <text x="76" y="278" class="out-2a" fill="#CBD5E1">
+          <tspan fill="#00D9FF">&gt; </tspan>Cybersecurity Engineering
+        </text>
+        <text x="76" y="297" class="out-2b" fill="#CBD5E1">
+          <tspan fill="#00D9FF">&gt; </tspan>Offensive Security <tspan fill="#475569">|</tspan> GRC <tspan fill="#475569">|</tspan> Cloud Security
+        </text>
+
+        
+        <g clip-path="url(#tw-cmd3)">
+          <text x="76" y="330">
+            <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#F1F5F9">./initialize.sh</tspan>
+          </text>
+        </g>
+        <text x="76" y="349" class="out-3a" fill="#94A3B8">
+          <tspan fill="#00D9FF">[+]</tspan> Loading security environment...
+        </text>
+        <text x="76" y="367" class="out-3b" fill="#94A3B8">
+          <tspan fill="#00D9FF">[+]</tspan> Initializing cyber operations...
+        </text>
+        <text x="76" y="385" class="out-3c" fill="#00FF9C" font-weight="600">
+          <tspan fill="#00FF9C">[+]</tspan> Access granted.
+        </text>
+
+        
+        <g clip-path="url(#tw-cmd4)">
+          <text x="76" y="405">
+            <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#F1F5F9">echo $MISSION</tspan>
+          </text>
+        </g>
+        <text x="76" y="424" class="out-4" fill="#00FF9C" font-weight="700" letter-spacing="1.2" filter="url(#neon-soft)">
+          <tspan fill="#00D9FF">&gt; </tspan>BREAK. UNDERSTAND. SECURE.
+        </text>
+
+        
+        <g class="out-p">
+          <text x="394" y="424" font-size="12.5" opacity="0.9">
+            <tspan fill="#00FF9C" font-weight="700">ryad@cyberlab</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#94A3B8">$</tspan>
+          </text>
+          <rect x="526" y="412" width="8.5" height="14" rx="1" fill="#00FF9C" class="cursor-blink" filter="url(#neon-soft)" />
+        </g>
+      </g>
+
+      
+      <line x1="56" y1="433" x2="748" y2="433" stroke="#00D9FF" stroke-opacity="0.14" stroke-width="1" />
+      <rect x="56" y="433" width="692" height="21" fill="#070D16" fill-opacity="0.85" />
+      <text x="76" y="447" font-size="9.5" fill="#64748B" letter-spacing="1">STATUS: <tspan fill="#00FF9C">OPERATIONAL</tspan>  |  MODE: <tspan fill="#00D9FF">RED/BLUE</tspan>  |  INTEGRITY: <tspan fill="#A78BFA">VERIFIED</tspan></text>
+
+      <g fill="#00FF9C" opacity="0.75">
+        <rect x="602" y="438" width="4" height="10" rx="1" class="bar-1" />
+        <rect x="610" y="438" width="4" height="10" rx="1" fill="#00D9FF" class="bar-2" />
+        <rect x="618" y="438" width="4" height="10" rx="1" class="bar-3" />
+        <rect x="626" y="438" width="4" height="10" rx="1" fill="#00D9FF" class="bar-4" />
+      </g>
+      <text x="642" y="447" font-size="9.5" fill="#94A3B8" letter-spacing="1">NET 99.98%</text>
+    </g>
+  </g>
+
+  
+  <rect width="1400" height="500" fill="url(#scanlines)" opacity="0.22" pointer-events="none" />
+  <rect width="1400" height="500" fill="url(#vignette)" pointer-events="none" />
+
+  <g fill="none" stroke="#00FF9C" stroke-opacity="0.38" stroke-width="1.4">
+    <polyline points="20,42 20,20 42,20" />
+    <polyline points="1358,20 1380,20 1380,42" />
+    <polyline points="20,458 20,480 42,480" />
+    <polyline points="1358,480 1380,480 1380,458" />
+  </g>
+
+  
+  <g class="scan-beam" pointer-events="none">
+    <rect x="0" y="0" width="140" height="500" fill="url(#scan-beam-grad)" />
+    <line x1="140" y1="0" x2="140" y2="500" stroke="#00FF9C" stroke-width="2.2" filter="url(#neon-strong)" />
+  </g>
+</svg>
