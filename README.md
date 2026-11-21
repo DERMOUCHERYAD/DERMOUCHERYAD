@@ -4,21 +4,15 @@
   No employer, school, internship, or private detail is embedded here.
 -->
 
-<div align="center">
 
-  <img src="./assets/hacker-workspace.webp" width="100%" alt="Dark cybersecurity workstation with multiple monitors" />
+<p align="center">
+  <img
+    src="./assets/banner-dark-v2.svg"
+    alt="Ryad Dermouche - Cybersecurity"
+    width="100%"
+  />
+</p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-dark.svg" />
-    <img src="./assets/banner-dark.svg" width="100%" alt="Ryad Dermouche — cybersecurity profile, animated daily security signal" />
-  </picture>
-
-  <p>
-    <a href="https://linkedin.com/in/mohammed-ryad-dermouche"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e1623?style=for-the-badge&logo=linkedin&logoColor=66e0b6" alt="LinkedIn" /></a>
-    <a href="mailto:dermoucheryad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0e1623?style=for-the-badge&logo=gmail&logoColor=66e0b6" alt="Email" /></a>
-    <a href="https://dermoucheryad.github.io/My_Portfolio_web_site/"><img src="https://img.shields.io/badge/Portfolio-Explore-0e1623?style=for-the-badge&logo=githubpages&logoColor=66e0b6" alt="Portfolio" /></a>
-  </p>
 
   <img src="https://komarev.com/ghpvc/?username=DERMOUCHERYAD&label=PROFILE+VIEWS&color=117f69&style=flat-square" alt="Profile views" />
 
