@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-svg.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-svg.svg" />
-    <img src="./assets/banner-svg.svg" width="100%" alt="Mohammed Ryad Dermouche — animated cybersecurity terminal and masked hacker reveal" />
+    <img src="./assets/banner-svg.svg" width="100%" alt="Ryad Dermouche — animated cybersecurity terminal and masked hacker reveal" />
   </picture>
 
   <!-- TERMINAL-STYLE WELCOME -->
@@ -37,7 +37,7 @@ $ whoami
 ryad@cybersec
 
 $ cat profile.txt
-Name     : Mohammed Ryad Dermouche
+Name     : Ryad Dermouche
 Focus    : Cybersecurity | Networks | Systems
 Domains  : Offensive Security | Defensive Security | GRC
 Approach : Learn. Build. Break. Secure.
